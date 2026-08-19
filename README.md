@@ -1,2 +1,6 @@
-# blog-aulas-comp-visual
-Blog-Aulas-Computação-Visual
+# Blog - Computação Visual
+Aluno: Tiago Silveira Lopes, RA: 10417600
+
+# Blogs (índices)
+
+Blog 1- [Aula 01](aula01.md)
