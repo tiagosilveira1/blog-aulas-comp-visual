@@ -6,3 +6,5 @@ Aluno: Tiago Silveira Lopes, RA: 10417600
 Blog 1- [Aula 01](_posts/2026-08-13-aula1.md) - 14/08/26
 
 Blog 2- [Aula 02](_posts/2026-08-20-aula2.md) - 20/08/26
+
+Blog 2- [Aula 02](_posts/2026-08-27-aula3.md) - 27/08/26
