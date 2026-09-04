@@ -13,3 +13,4 @@ Blog da disciplina de Computação Visual.
 
 - [Aula 1 — 13/08/2026](_posts/2026-08-13-aula1.md)
 - [Aula 2 — 20/08/2026](_posts/2026-08-20-aula2.md)
+- [Aula 3 — 27/08/2026](_posts/2026-08-27-aula3.md)
