@@ -9,9 +9,15 @@ title: "Computação Visual"
 
 Blog da disciplina de Computação Visual.
 
-## Posts
+# Posts
+
+## Primeiro Bimestre
 
 - [Aula 1 — 13/08/2026](_posts/2026-08-13-aula1.md)
 - [Aula 2 — 20/08/2026](_posts/2026-08-20-aula2.md)
 - [Aula 3 — 27/08/2026](_posts/2026-08-27-aula3.md)
 - [Aula 4 — 03/09/2026](_posts/2026-09-03-aula4.md)
+
+## Segundo bimestre
+
+- [Aula 5 - 01/10/2026](_posts/2026-10-01-aula5.md)
