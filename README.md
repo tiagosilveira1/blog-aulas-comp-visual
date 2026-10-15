@@ -16,4 +16,5 @@ Blog 4- [Aula 04](_posts/2026-09-03-aula4.md) - 03/09/26
 ## Segundo bimestre
 
 Blog 5- [Aula 05](_posts/2026-10-01-aula5.md) - 01/10/26
+
 Blog 6- [Aulas 06 e 07](_posts/2026-10-15-aula6e7.md) - 15/10/26
