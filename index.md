@@ -22,3 +22,4 @@ Blog da disciplina de Computação Visual.
 
 - [Aula 5 - 01/10/2026](_posts/2026-10-01-aula5.md)
 - [Aulas 6 e 7 - 15/10/2026](_posts/2026-10-15-aula6e7.md)
+- [Aula 8 - 29/10/2026](_posts/2026-10-29-aula8.md)
