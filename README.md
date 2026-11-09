@@ -21,4 +21,4 @@ Blog 6- [Aulas 06 e 07](_posts/2026-10-15-aula6e7.md) - 15/10/26
 
 Blog 7- [Aula 08](_posts/2026-10-29-aula8.md) - 29/10/26
 
-Blog 8- [Aula 09](_posts/2026-11-12-aula9-final.md) - 12/11/26
+Blog 8- [Aula 09](_posts/2026-11-12-aula9.md) - 12/11/26
